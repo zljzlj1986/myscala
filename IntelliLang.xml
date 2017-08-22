@@ -4,5 +4,9 @@
       <display-name>artifactId</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("artifactId")).withNamespace(string().equalTo("http://maven.apache.org/POM/4.0.0"))]]></place>
     </injection>
+    <injection language="DTD" injector-id="xml">
+      <display-name>configuration</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("configuration")).withNamespace(string().equalTo("http://maven.apache.org/POM/4.0.0"))]]></place>
+    </injection>
   </component>
 </application>
