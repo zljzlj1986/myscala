@@ -2,41 +2,39 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.scala</mask>
-      <mask>*.scal</mask>
-      <mask>*.sca</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>*.j's</mask>
-      <mask>*.h't</mask>
-      <mask>*.h't'm</mask>
-      <mask>*.java]</mask>
-      <mask>*.propert</mask>
-      <mask>*.proper</mask>
-      <mask>*.prope</mask>
-      <mask>*.prop</mask>
-      <mask>*.pro</mask>
       <mask>*.pr</mask>
       <mask>*.p</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.*</mask>
+      <mask>*.j's</mask>
+      <mask>*.gt</mask>
+      <mask>*.g</mask>
+      <mask>*.htmlx\\\\</mask>
+      <mask>*.htmlx\\\</mask>
+      <mask>*.htmlx\\</mask>
+      <mask>*.htmlx\</mask>
+      <mask>*.htmlx</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*.js</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
+      <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.*</mask>
+      <mask>*.jhava</mask>
+      <mask>*.jhav</mask>
+      <mask>*.jha</mask>
+      <mask>*.jh</mask>
+      <mask>*.jv</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
