@@ -5,10 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*.htmlx\\\</mask>
-      <mask>*.htmlx\\</mask>
-      <mask>*.htmlx\</mask>
       <mask>*.htmlx</mask>
       <mask>*</mask>
       <mask>*.jhava</mask>
@@ -16,17 +14,6 @@
       <mask>*.jha</mask>
       <mask>*.jh</mask>
       <mask>*.jv</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
       <mask>*.prop</mask>
@@ -36,6 +23,20 @@
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
+      <mask>*.p</mask>
+      <mask>*.j'a</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.*</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.h't'm</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
