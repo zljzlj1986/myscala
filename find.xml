@@ -5,17 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.class" />
     <recentFileMasks>
-      <mask>*.jha</mask>
-      <mask>*.jh</mask>
-      <mask>*.jv</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
-      <mask>*.prop</mask>
-      <mask>*.prope</mask>
-      <mask>*.proper</mask>
-      <mask>*.propert</mask>
-      <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
       <mask>*.p</mask>
@@ -31,11 +22,21 @@
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.xm</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
       <mask>*.x'm</mask>
+      <mask>*.xml=</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.scala</mask>
+      <mask>*.scal</mask>
+      <mask>*.sca</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.c</mask>
+      <mask>*.cl</mask>
+      <mask>*.cla</mask>
+      <mask>*.class</mask>
     </recentFileMasks>
   </component>
 </application>
