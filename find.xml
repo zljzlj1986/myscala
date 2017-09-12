@@ -3,13 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.htmlx</mask>
-      <mask>*</mask>
-      <mask>*.jhava</mask>
-      <mask>*.jhav</mask>
       <mask>*.jha</mask>
       <mask>*.jh</mask>
       <mask>*.jv</mask>
@@ -28,14 +27,18 @@
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.*</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.h</mask>
       <mask>*.h't'm</mask>
       <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.xm</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.x'm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
