@@ -18,12 +18,6 @@
       <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*.xml=</mask>
-      <mask>*.xm</mask>
-      <mask>*.scala</mask>
-      <mask>*.scal</mask>
-      <mask>*.sca</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
       <mask>*.class</mask>
       <mask>*.clas</mask>
       <mask>*.cla</mask>
@@ -33,6 +27,12 @@
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
+      <mask>*.xm</mask>
+      <mask>*.scala</mask>
+      <mask>*.scal</mask>
+      <mask>*.sca</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
       <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.x'm</mask>
