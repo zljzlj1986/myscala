@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.p</mask>
@@ -21,20 +21,20 @@
       <mask>*.cla</mask>
       <mask>*.cl</mask>
       <mask>*.c</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.x'm</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
       <mask>*.scala</mask>
       <mask>*.scal</mask>
       <mask>*.sca</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
-      <mask>*.xm</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.x'm</mask>
-      <mask>*.xml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
