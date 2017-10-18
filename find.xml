@@ -2,12 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.h</mask>
       <mask>*.xml=</mask>
       <mask>*.class</mask>
       <mask>*.clas</mask>
@@ -30,13 +26,14 @@
       <mask>*.sca</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
+      <mask>*.j's</mask>
+      <mask>*.java</mask>
       <mask>*.ja</mask>
+      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.j's</mask>
-      <mask>*.js</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
