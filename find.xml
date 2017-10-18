@@ -5,9 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*.xml=</mask>
       <mask>*.class</mask>
@@ -19,24 +18,25 @@
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
       <mask>*.js=</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.sacla</mask>
       <mask>*.sacl</mask>
       <mask>*.sac</mask>
       <mask>*.sala</mask>
       <mask>*.sal</mask>
       <mask>*.sa</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.sca</mask>
-      <mask>*.scal</mask>
       <mask>*.scala</mask>
+      <mask>*.scal</mask>
+      <mask>*.sca</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.j's</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
