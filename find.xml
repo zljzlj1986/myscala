@@ -10,10 +10,7 @@
       <mask>*.cla</mask>
       <mask>*.cl</mask>
       <mask>*.c</mask>
-      <mask>*.x'm</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.js=</mask>
       <mask>*.sacla</mask>
       <mask>*.sacl</mask>
@@ -28,12 +25,15 @@
       <mask>*.ja</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.sca</mask>
-      <mask>*.scal</mask>
       <mask>*.scala</mask>
+      <mask>*.scal</mask>
+      <mask>*.sca</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.x'm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
