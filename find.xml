@@ -3,38 +3,38 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.properties" />
     <recentFileMasks>
-      <mask>*.c</mask>
-      <mask>*.js=</mask>
-      <mask>*.sacla</mask>
-      <mask>*.sacl</mask>
-      <mask>*.sac</mask>
-      <mask>*.sala</mask>
-      <mask>*.sal</mask>
-      <mask>*.sa</mask>
-      <mask>*.j's</mask>
-      <mask>*.*</mask>
-      <mask>*.jav</mask>
-      <mask>*.j</mask>
       <mask>*.scala</mask>
       <mask>*.scal</mask>
       <mask>*.sca</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
       <mask>*.x'm</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.js</mask>
       <mask>*</mask>
       <mask>*.hava</mask>
       <mask>*.hav</mask>
       <mask>*.ha</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
-      <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.prope</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.properti</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
