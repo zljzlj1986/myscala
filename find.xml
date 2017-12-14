@@ -7,7 +7,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.js</mask>
       <mask>*</mask>
@@ -27,18 +27,18 @@
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.j'a</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
       <mask>*.*</mask>
-      <mask>*.</mask>
-      <mask>*.h</mask>
       <mask>*.h't'm</mask>
       <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.j'a</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
