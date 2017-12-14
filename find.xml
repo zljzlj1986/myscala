@@ -5,9 +5,8 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
-      <mask>*.s</mask>
       <mask>*.x'm</mask>
       <mask>*.js</mask>
       <mask>*</mask>
@@ -32,11 +31,12 @@
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
-      <mask>*.htm</mask>
       <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
