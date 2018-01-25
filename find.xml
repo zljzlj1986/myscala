@@ -7,22 +7,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scala" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
-      <mask>*.properti</mask>
-      <mask>*.propertie</mask>
-      <mask>*.properties</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.*</mask>
-      <mask>*.j'a</mask>
-      <mask>*.h't'm</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.c's</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
@@ -30,15 +16,29 @@
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.sa</mask>
-      <mask>*.s</mask>
       <mask>*.s'c'la</mask>
       <mask>*.s'c'l</mask>
       <mask>*.s'c</mask>
-      <mask>*.sca</mask>
-      <mask>*.scal</mask>
       <mask>*.scala</mask>
+      <mask>*.scal</mask>
+      <mask>*.sca</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.p'r</mask>
+      <mask>*.properties</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properti</mask>
+      <mask>*.propert</mask>
+      <mask>*.proper</mask>
+      <mask>*.prope</mask>
+      <mask>*.prop</mask>
+      <mask>*.pro</mask>
+      <mask>*.pr</mask>
+      <mask>*.p</mask>
+      <mask>*.&amp;</mask>
+      <mask>*.</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
